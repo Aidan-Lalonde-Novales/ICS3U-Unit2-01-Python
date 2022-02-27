@@ -10,11 +10,11 @@ import math
 
 def main():
     # calculates the perimeter and area of the circle
-    print("A circle with a radius of 15mm")
+    print("A circle with a radius of 15 mm")
     print("will have the following:")
     print("")
-    print("Perimeter of {}mm.".format(2 * math.pi * 15))
-    print("Area of {}mm².".format(math.pi * 15**2))
+    print("Perimeter of {} mm.".format(2 * math.pi * 15))
+    print("Area of {} mm².".format(math.pi * 15**2))
     print("")
     print("Done.")
 
